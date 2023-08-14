@@ -7,7 +7,7 @@ Full stack developer
 I like to callme a "Problem solver". As developer, doesnt matter how many lines of code you write, if doesnt solve a problem, is not needed.
 
 * 🌍  I'm based in Guatemala
-* 🖥️  See my portfolio at [My portfolio](http://kevin-ramirez-2022.herokuapp.com/)
+* 🖥️  See my portfolio at [My portfolio](https://kevinramirezdev.netlify.app/) (Under maintenance)
 * ✉️  You can contact me at [kevin.tec.mat@gmail.com](mailto:kevin.tec.mat@gmail.com)
 * 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on Blockchain
